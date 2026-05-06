@@ -7,13 +7,13 @@
 // export const DEVNET_PORTFOLIO_ID = "0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890";
 
 // ✅ Your NEW Testnet Package ID
-export const TESTNET_PACKAGE_ID = "0xb2eeb0e6b02570c6e4c386751800b4d1d8f6a851728e171fcb5bc7ff8d534e94";
+export const TESTNET_PACKAGE_ID = "0x53df9e910333b3e5d68324427e560ce25e33975628919a343d648c575d6eb74e";
 
 // ✅ Your NEW Testnet Portfolio Object ID
-export const TESTNET_PORTFOLIO_ID = "0x0f607e3f9f07f7cefb451bfa8129a16b2ebf71438ee84336b198388871d81140";
+export const TESTNET_PORTFOLIO_ID = "0xb03fefa4702bf4fbf1dd6930d1c04f4fe7ead934754ff8b9f98ff485096d5c4e";
 
 export const MAINNET_PACKAGE_ID = "0x0";
-export const MAINNET_PORTFOLIO_ID = "0xa3343391df96e28464499f4c209d51bf209c07392fdeea97bfeee59e7550f020";
+export const MAINNET_PORTFOLIO_ID = "0x0";
 
 export const LOCAL_PACKAGE_ID = "0x0";
 export const LOCAL_PORTFOLIO_ID = "0x0";
